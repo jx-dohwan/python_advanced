@@ -6,7 +6,7 @@ def my_func(a,b):
 
 my_func(2,3)
 
-# 기본 매개변수
+# 2. 기본 매개변수
 # 매개변수의 기본값을 지정할 수 있다.
 
 def post_info(title, content="내용없다."):

@@ -23,5 +23,5 @@ for word in word_list:
 print(result)
 
 # 2. 리스트 내포를 사용한 후
-result = [i for i in word_list if i[0]=='a']
+result = [i for i in word_list if i[0]=='a'] # 맨처음 i는 몇씩 증가할것인지일듯
 print(result)
